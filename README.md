@@ -14,6 +14,7 @@ This Omnifood design is made as per shown in Jonas Schmedtmann's course. My focu
 The link for the author's profile and his course is provided below.
 
 His Profile:https://www.udemy.com/user/jonasschmedtmann/
+
 His Course:https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/
 
 <img src= "https://raw.githubusercontent.com/karl-kallavus/omnifood/master/screenshots/omnifood_2.png">
