@@ -1,3 +1,5 @@
+//===================DISPLAY OF SECONDARY NAVBAR================================================================
+
 $('.js--section-features').waypoint(function(direction){
 	if(direction == "down"){
 		$('nav').addClass('sticky');
@@ -8,7 +10,7 @@ $('.js--section-features').waypoint(function(direction){
 	offset:'60px;'
 });
 
-// ========================================================================================
+// ===============================SCROLL FUNCTIONS=========================================================
 $(".js--scroll-features").click(function(){
 	$("html,body").animate({scrollTop:$(".js--section-features").offset().top},1000);
 });
@@ -33,7 +35,7 @@ $(".js--scroll-work").click(function(){
 	$("html,body").animate({scrollTop:$(".js--section-work").offset().top},1000);
 });
 
-// ====================================================================================
+// ======================================  ANIMATIONS ==============================================
 
 $(".js--wp-1").waypoint(function(direction){
 	$('.js--wp-1').addClass("animated fadeIn");
